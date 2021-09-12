@@ -12,13 +12,17 @@ What are some other possible tables and/or graphs that we could create?
 Images can be added with the following syntax: ![image_name](path/to/image_name.png).
 Hyperlinks to relevant files are  added in a similar manner: [filename](path/to/filename.xlxs).
 
-##**Overview**
+##Overview
 In order to determine if there is a correlation between launch dates and fundraising goals, data from multiple plays were analyzed. More specific analysis looking for trends between theater launch dates and goals was also performed. A further look into the data to determine if there was a correlation betweeen the fundraising outcome based on the goals of the fundraising compaign was graphed. The data was provided by the client in the Kickstarter data set.  
 
-##**Analysis**
+##Analysis
 In order to determine if the launch date of a fundraising campaign affected the outcome, a lineplot of the outcomes throughout each month of the year was created. Further analysis looking more specifically at fundraising campaigns for theaters based on launch date was performed using a line plot as well. To determine if the fundraising goals affected the outcome, a line plot was also created. All of these data analyses utilized pivot tables or specific sorting in order to extract the relevant data. 
 
-##**Results**
+##Results
+
+**Launch Date vs Outcome**
+
+
 
 
 
