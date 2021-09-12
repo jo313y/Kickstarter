@@ -21,13 +21,13 @@ In order to determine if the launch date of a fundraising campaign affected the 
 ## Results
 
 **Launch Date vs Outcome**
-![Outcomes_based_on_Launch_Date.png]https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Outcomes_based_on_Launch_Date.png
+![Outcomes_based_on_Launch_Date] https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Outcomes_based_on_Launch_Date.png
 
 **Theater Launch Date vs Outcome**
-![Theater_Outcomes_vs_Launch.png]https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Theater_Outcomes_vs_Launch.png
+![Theater_Outcomes_vs_Launch] https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Theater_Outcomes_vs_Launch.png
 
 **Outcomes vs Goals**
-![Outcomes_vs_Goals.png]https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Outcomes_vs_Goals.png
+![Outcomes_vs_Goals] https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Outcomes_vs_Goals.png
 
 
 The goal was to determine if a campaign launch date correlated with the outome. Looking at the Launch Date vs Outcome we see that there is an increase in successful fundraising campaigns in May. There is, however, an increase in failed outcomes as well. The best place to look for a date to start a campaign is where the 'successful' trend line and the 'failed' trendline are the furthest apart. This means, the highest percentage of successful campaigns are in February,  April, May, and November with May having the highest successful campaigns.
