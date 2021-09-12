@@ -34,8 +34,7 @@ It would be ideal to have data up to the current year to provide a full analysis
 It's recommended to do analysis to determine how many backers it takes to be successful. On average, how much does each backer pledge. There may be a correllation between the amount a campaign recommends to pledge to increase the amount of backers, which in turn would possibly increase the success rate of the campaign. 
 
 A graph of the correlation between the number of backers and the pledge amount would be very useful. 
-
-It was a pleasure going through this analysis and am excited to continue working with your company. Please reach out if there are any questions with this analysis or you feel it does not meet your expectations.
+A table of the company name vs success rate would be useful in this analysis.
 
 
 
