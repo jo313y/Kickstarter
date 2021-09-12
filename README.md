@@ -21,20 +21,20 @@ In order to determine if the launch date of a fundraising campaign affected the 
 ## Results
 
 **Launch Date vs Outcome**
-![Outcomes_based_on_Launch_Date] https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Outcomes_based_on_Launch_Date.png
+https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Outcomes_based_on_Launch_Date.png
 
 **Theater Launch Date vs Outcome**
-![Theater_Outcomes_vs_Launch] https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Theater_Outcomes_vs_Launch.png
+https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Theater_Outcomes_vs_Launch.png
 
 **Outcomes vs Goals**
-![Outcomes_vs_Goals] https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Outcomes_vs_Goals.png
+https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Outcomes_vs_Goals.png
 
 
-The goal was to determine if a campaign launch date correlated with the outome. Looking at the Launch Date vs Outcome we see that there is an increase in successful fundraising campaigns in May. There is, however, an increase in failed outcomes as well. The best place to look for a date to start a campaign is where the 'successful' trend line and the 'failed' trendline are the furthest apart. This means, the highest percentage of successful campaigns are in February,  April, May, and November with May having the highest successful campaigns.
+The goal was to determine if a campaign launch date correlated with the outome. Looking at the **Launch Date vs Outcome** we see that there is an increase in successful fundraising campaigns in May. There is, however, an increase in failed outcomes as well. The best place to look for a date to start a campaign is where the 'successful' trend line and the 'failed' trendline are the furthest apart. This means, the highest percentage of successful campaigns are in February,  April, May, and November with May having the highest successful campaigns.
 
-In order to determine how this looks for theaters, the trendline for Theater Launch Date vs Outcome was plotted (link above). This plot shows an obvious trend in successful theater campaigns in May. May is the best choice in dates for launching a campaign with June and July still being a good choice as well, but success drops as the summer goes on. February and August have relatively similiar success rates, with February having a higher percentage of successful campaigns.
+In order to determine how this looks for theaters, the trendline for **Theater Launch Date vs Outcome** was plotted. This plot shows an obvious trend in successful theater campaigns in May. May is the best choice in dates for launching a campaign with June and July still being a good choice as well, but success drops as the summer goes on. February and August have relatively similiar success rates, with February having a higher percentage of successful campaigns.
 
-The goal amount also plays a part in the success rate based on the Outcomes vs Goals (link above). We see an obvious trend that the smaller goal amounts are more successful. This trend is only relevant for campaigns that are Less than $1000 until $4999. After the goal is $5000, the success rate drops dramatically. The most successful campaign is between $35000 to $44999 when it comes to high dollar campaigns. Any campaign higher than this amount shows a high failure rate. 
+The goal amount also plays a part in the success rate based on the **Outcomes vs Goals**. We see an obvious trend that the smaller goal amounts are more successful. This trend is only relevant for campaigns that are Less than $1000 until $4999. After the goal is $5000, the success rate drops dramatically. The most successful campaign is between $35000 to $44999 when it comes to high dollar campaigns. Any campaign higher than this amount shows a high failure rate. 
 
 The recommedation from this analysis for a theater to launch a fundraising campaign is to launch a campaign between $35000 and $44999 in May. This will increase the chances of a successful outcome based on the data. 
 
