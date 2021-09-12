@@ -38,7 +38,7 @@ In order to determine how this looks for theaters, the trendline for **Theater L
 
 The goal amount also plays a part in the success rate based on the **Outcomes vs Goals**. We see an obvious trend that the smaller goal amounts are more successful. This trend is only relevant for campaigns that are Less than $1000 until $4999. After the goal is $5000, the success rate drops dramatically. The most successful campaign is between $35000 to $44999 when it comes to high dollar campaigns. Any campaign higher than this amount shows a high failure rate. 
 
-**The recommedation from this analysis for a theater to launch a fundraising campaign is to launch a campaign between $35000 and $44999 in May. This will increase the chances of a successful outcome based on the data. **
+The recommedation from this analysis for a theater to launch a fundraising campaign is to launch a campaign between $35000 and $44999 in May. This will increase the chances of a successful outcome based on the data.
 
 **Limitations and Further Analysis**
 It would be ideal to have data up to the current year to provide a full analysis. Especially with recent developments and the COVID crisis.
