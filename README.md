@@ -18,8 +18,6 @@ In order to determine if there is a correlation between launch dates and fundrai
 ## Analysis
 In order to determine if the launch date of a fundraising campaign affected the outcome, a lineplot of the outcomes throughout each month of the year was created. Further analysis looking more specifically at fundraising campaigns for theaters based on launch date was performed using a line plot as well. To determine if the fundraising goals affected the outcome, a line plot was also created. All of these data analyses utilized pivot tables or specific sorting in order to extract the relevant data. 
 
-## Results
-
 **Launch Date vs Outcome**
 
 https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Outcomes_based_on_Launch_Date.png
@@ -33,22 +31,20 @@ https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Theater_
 https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Outcomes_vs_Goals.png
 
 
+## Results
 The goal was to determine if a campaign launch date correlated with the outome. Looking at the **Launch Date vs Outcome** we see that there is an increase in successful fundraising campaigns in May. There is, however, an increase in failed outcomes as well. The best place to look for a date to start a campaign is where the 'successful' trend line and the 'failed' trendline are the furthest apart. This means, the highest percentage of successful campaigns are in February,  April, May, and November with May having the highest successful campaigns.
 
 In order to determine how this looks for theaters, the trendline for **Theater Launch Date vs Outcome** was plotted. This plot shows an obvious trend in successful theater campaigns in May. May is the best choice in dates for launching a campaign with June and July still being a good choice as well, but success drops as the summer goes on. February and August have relatively similiar success rates, with February having a higher percentage of successful campaigns.
 
 The goal amount also plays a part in the success rate based on the **Outcomes vs Goals**. We see an obvious trend that the smaller goal amounts are more successful. This trend is only relevant for campaigns that are Less than $1000 until $4999. After the goal is $5000, the success rate drops dramatically. The most successful campaign is between $35000 to $44999 when it comes to high dollar campaigns. Any campaign higher than this amount shows a high failure rate. 
 
-The recommedation from this analysis for a theater to launch a fundraising campaign is to launch a campaign between $35000 and $44999 in May. This will increase the chances of a successful outcome based on the data. 
+**The recommedation from this analysis for a theater to launch a fundraising campaign is to launch a campaign between $35000 and $44999 in May. This will increase the chances of a successful outcome based on the data. **
 
 **Limitations and Further Analysis**
 It would be ideal to have data up to the current year to provide a full analysis. Especially with recent developments and the COVID crisis.
 
 It's recommended to do analysis to determine how many backers it takes to be successful. On average, how much does each backer pledge. There may be a correllation between the amount a campaign recommends to pledge to increase the amount of backers, which in turn would possibly increase the success rate of the campaign. 
 
-
-
-35000 to 44999
 
 
 
