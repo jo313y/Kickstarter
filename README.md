@@ -29,9 +29,14 @@ The goal amount also plays a part in the success rate based on the **Outcomes vs
 The recommedation from this analysis for a theater to launch a fundraising campaign is to launch a campaign between $35000 and $44999 in May. This will increase the chances of a successful outcome based on the data.
 
 ### Limitations and Further Analysis
-It would be ideal to have data up to the current year to provide a full analysis. Especially with recent developments and the COVID crisis.
+It would be ideal to have data up to the current year to provide a full analysis. Especially with recent developments and the COVID crisis. It is also recommended to keep track of the pledge amount of each individual backer. 
 
 It's recommended to do analysis to determine how many backers it takes to be successful. On average, how much does each backer pledge. There may be a correllation between the amount a campaign recommends to pledge to increase the amount of backers, which in turn would possibly increase the success rate of the campaign. 
+
+A graph of the correlation between the number of backers and the pledge amount would be very useful. 
+
+It was a pleasure going through this analysis and am excited to continue working with your company. Please reach out if there are any questions with this analysis or you feel it does not meet your expectations.
+
 
 
 
