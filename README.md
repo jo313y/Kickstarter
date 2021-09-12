@@ -21,12 +21,15 @@ In order to determine if the launch date of a fundraising campaign affected the 
 ## Results
 
 **Launch Date vs Outcome**
+
 https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Outcomes_based_on_Launch_Date.png
 
 **Theater Launch Date vs Outcome**
+
 https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Theater_Outcomes_vs_Launch.png
 
 **Outcomes vs Goals**
+
 https://du.bootcampcontent.com/jo313/kickstarter-analysis-1/-/blob/main/Outcomes_vs_Goals.png
 
 
